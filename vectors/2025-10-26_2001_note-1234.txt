@@ -1,0 +1,4 @@
+# Memory note — 2025-10-26
+vector-id: 1234
+description: Random number 1234 saved via alternate phrasing test ('save this to GitHub memory').
+timestamp: 2025-10-26T20:00:00-07:00

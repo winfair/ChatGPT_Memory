@@ -1,0 +1,13 @@
+# ignore exports and temp files
+*.zip
+*.7z
+*.tar
+*.gz
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv

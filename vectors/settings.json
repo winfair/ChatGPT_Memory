@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "branch": "vectors",
+  "note_pattern": "vectors/YYYY-MM-DD_HHMM_note-<id>.txt",
+  "description": "When user says: 'remember this in my GitHub memory: <text>', create a plain text note and push to the vectors branch using additive commits."
+}

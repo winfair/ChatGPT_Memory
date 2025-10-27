@@ -1,0 +1,9 @@
+timezone: America/Los_Angeles
+projection:
+  method: umap
+  n_neighbors: 15
+  min_dist: 0.1
+  random_state: 42
+topics_seed: schemas/topics.seed.jsonl
+entities_seed: schemas/entities.seed.jsonl
+append_only: true

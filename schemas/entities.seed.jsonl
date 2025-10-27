@@ -1,0 +1,17 @@
+{
+  "name": "WS2811", "type": "component", "aliases": ["ws281x"],
+  "first_seen": "2025-10-21"
+}
+{
+  "name": "nRF24L01+", "type": "radio", "aliases": ["nrf24", "nrf24l01"],
+  "first_seen": "2025-10-15"
+}
+{
+  "name": "Raspberry Pi 5", "type": "computer"
+}
+{
+  "name": "22R engine", "type": "vehicle_component"
+}
+{
+  "name": "Marlin", "type": "firmware"
+}

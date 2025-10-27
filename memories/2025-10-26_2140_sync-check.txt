@@ -1,4 +1,0 @@
-# Memory note — 2025-10-26
-Verification marker: visible on GitHub default branch (main) and vectors.
-message: If you can read this on main branch, sync is working.
-timestamp: 2025-10-26T21:40:00-07:00

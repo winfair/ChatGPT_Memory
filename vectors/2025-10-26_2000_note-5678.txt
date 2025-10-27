@@ -1,4 +1,0 @@
-# Memory note — 2025-10-26
-vector-id: 5678
-description: Random number to retain in GitHub memory for testing the 'vectors' branch system.
-timestamp: 2025-10-26T20:00:00-07:00

@@ -1,5 +1,0 @@
-# Memory note — 2025-10-26
-User states: Owns a Raspberry Pi 5.
-source: ChatGPT account (global)
-file_format: text
-timestamp: 2025-10-26T22:15:00-07:00

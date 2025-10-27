@@ -1,7 +1,0 @@
-# Chat push — 2025-10-26
-source: ChatGPT account (global)
-branch: vectors
-file_format: text
-summary: Initializing account-wide "Push to GitHub memory" hook. All devices under this account can say: "Push to GitHub memory" to create a new .txt under memories/.
-context_hint: This file verifies end-to-end write from chat to GitHub via app tool.
-timestamp: 2025-10-26T21:00:00-07:00

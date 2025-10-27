@@ -1,0 +1,6 @@
+# Memory note — 2025-10-27
+Project: 2.4GHz radio handle for scanning
+Description: Built a handle for a 2.4GHz radio to make scanning more ergonomic and controllable.
+source: user input (chat)
+file_format: text
+timestamp: 2025-10-27T09:30:00-07:00
